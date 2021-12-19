@@ -5,4 +5,4 @@
 
 Here are some ideas to get you started:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ComedyStudios&theme=radica)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ComedyStudios)](https://github.com/anuraghazra/github-readme-stats)
